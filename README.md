@@ -11,7 +11,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ImTkN&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-</p>h3>
+</p>
 
 ## 🛠 Мой стек технологий
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
