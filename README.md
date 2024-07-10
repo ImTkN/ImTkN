@@ -5,7 +5,7 @@
 
 <h3 align="center" class="heading-element" dir="auto">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImTkN&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
+    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImTkN&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=ImTkN&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
