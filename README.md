@@ -1,24 +1,17 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ImTkN&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTkN&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ImTkN&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
+
 
 <h1 align="center" class="heading-element" dir="auto">Привет, меня зовут Кирилл! </h1>
 <h3 align="center" class="heading-element" dir="auto">
   Бэкенд разработчик (Django).
 </h3>
 
-<h3 align="center" class="heading-element" dir="auto">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImTkN&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=ImTkN&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
-  </a>
-</h3>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ImTkN&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTkN&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ImTkN&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>h3>
 
 ## 🛠 Мой стек технологий
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
